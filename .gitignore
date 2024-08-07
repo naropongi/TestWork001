@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+sql_app.db
+poetry.lock
+.coverage
+htmlcov
